@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>BurgTV Mobile - Download</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body { background: #0a0a0a; color: #fff; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+        .container { text-align: center; padding: 40px 20px; max-width: 600px; }
+        .logo { width: 120px; height: 120px; margin-bottom: 24px; border-radius: 24px; }
+        h1 { font-size: 2rem; margin-bottom: 8px; }
+        .subtitle { color: #888; margin-bottom: 40px; }
+        .platforms { display: flex; flex-direction: column; gap: 24px; align-items: center; }
+        .platform { display: flex; flex-direction: column; align-items: center; gap: 12px; }
+        .platform-icon { width: 64px; height: 64px; border-radius: 14px; }
+        .platform-name { font-weight: 600; font-size: 1.1rem; }
+        .platform-desc { color: #888; font-size: 0.9rem; }
+        .btn { display: inline-block; padding: 12px 32px; background: #fff; color: #000; text-decoration: none; border-radius: 30px; font-weight: 600; font-size: 1rem; transition: transform 0.2s; border: 2px solid #fff; }
+        .btn:hover { transform: scale(1.05); }
+        .version { color: #555; font-size: 0.8rem; margin-top: 8px; }
+        .coming-soon { color: #555; font-size: 0.9rem; font-style: italic; }
+        @media (min-width: 500px) { .platforms { flex-direction: row; justify-content: center; gap: 60px; } }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <img src="https://raw.githubusercontent.com/burgtv/burgtv-releases/main/icon.png" alt="BurgTV" class="logo" onerror="this.style.display='none'">
+        <h1>BurgTV Mobile</h1>
+        <p class="subtitle">Scarica BurgTV per il tuo dispositivo mobile</p>
+
+        <div class="platforms">
+            <div class="platform">
+                <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" class="platform-icon" style="background: #3ddc84; padding: 10px;">
+                <span class="platform-name">Android</span>
+                <span class="platform-desc">Scarica l'APK per smartphone e tablet Android</span>
+                <a href="https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.0.0/burgtv-mobile-1.0.0-release.apk" class="btn">Scarica APK</a>
+                <span class="version">v1.0.0</span>
+            </div>
+
+            <div class="platform">
+                <span style="font-size: 64px;">🍎</span>
+                <span class="platform-name">iOS</span>
+                <span class="coming-soon">Prossimamente</span>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,8 @@
+{
+  "version_code": 100,
+  "version_name": "1.0.0",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.0.0/burgtv-mobile-1.0.0-release.apk",
+  "release_date": "2026-03-31",
+  "min_version_code": 100,
+  "changelog": "First release of BurgTV Mobile for Android"
+}
