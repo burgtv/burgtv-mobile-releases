@@ -1,8 +1,8 @@
 {
-  "version_code": 111,
-  "version_name": "1.1.1",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.1/burgtv-mobile-1.1.1-release.apk",
+  "version_code": 112,
+  "version_name": "1.1.2",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.2/burgtv-mobile-1.1.2-release.apk",
   "release_date": "2026-05-02",
   "min_version_code": 100,
-  "changelog": "Parental control: adult categories fully hidden. Sport: EPG search + 200+ team aliases + mini guide. Series: fix episodes on fresh install. History: cleaned on playlist delete. UI: all strings localized in 21 languages."
+  "changelog": "Multi-playlist: no duplicates, no All tab. Parental: empty adult categories hidden. IPTV→Streaming in 21 languages. Sport mini guide. History channel fix."
 }
