@@ -4,5 +4,5 @@
   "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.5/burgtv-mobile-1.1.5-release.apk",
   "release_date": "2026-05-17",
   "min_version_code": 100,
-  "changelog": "Aspect ratio button in tutti i player (parità iOS). Trailer film/serie apre YouTube. Preferiti TV inline player. Griglia Preferiti auto-refresh real-time. Refactor LiveChannelExperience condiviso. Composite indices movies/series. Pattern Room Flow reattivo."
+  "changelog": "Minor improvements"
 }
