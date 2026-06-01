@@ -1,8 +1,8 @@
 {
-  "version_code": 118,
-  "version_name": "1.1.8",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.8/burgtv-mobile-1.1.8-release.apk",
-  "release_date": "2026-05-25",
+  "version_code": 119,
+  "version_name": "1.1.9",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.9/burgtv-mobile-1.1.9-release.apk",
+  "release_date": "2026-06-01",
   "min_version_code": 100,
-  "changelog": "v1.1.8"
+  "changelog": "v1.1.9 — bug fixes"
 }
