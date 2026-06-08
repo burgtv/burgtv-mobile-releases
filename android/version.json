@@ -1,8 +1,8 @@
 {
-  "version_code": 119,
-  "version_name": "1.1.9",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.9/burgtv-mobile-1.1.9-release.apk",
-  "release_date": "2026-06-01",
+  "version_code": 120,
+  "version_name": "1.1.10",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.10/burgtv-mobile-1.1.10-release.apk",
+  "release_date": "2026-06-08",
   "min_version_code": 100,
-  "changelog": "v1.1.9 — bug fixes"
+  "changelog": "v1.1.10 — Jellyfin + Portal, multi-playlist, UI tablet adattiva, traduzioni 21 lingue, fix crash prossimo episodio"
 }
