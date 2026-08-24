@@ -1,8 +1,8 @@
 {
-  "version_code": 121,
-  "version_name": "1.1.11",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.11/burgtv-mobile-1.1.11-release.apk",
-  "release_date": "2026-06-19",
+  "version_code": 122,
+  "version_name": "1.1.12",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.12/burgtv-mobile-1.1.12-release.apk",
+  "release_date": "2026-08-24",
   "min_version_code": 100,
-  "changelog": "v1.1.11 — Sport ripristinato (cert pinning), motore libVLC come fallback automatico per i canali live + audio FFmpeg, Tutti i canali per playlist, dialog semi-trasparenti, validazione playlist piu robusta, ordinamento playlist"
+  "changelog": "v1.1.12 — Sport: schede partite e ricerca canali allineate alla versione TV (4 livelli di ricerca), tab Sport corretta in inglese, traduzioni complete in 21 lingue (paywall, ordinamenti, dialoghi), correzioni varie"
 }
