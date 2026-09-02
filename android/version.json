@@ -1,8 +1,8 @@
 {
-  "version_code": 122,
-  "version_name": "1.1.12",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.12/burgtv-mobile-1.1.12-release.apk",
-  "release_date": "2026-08-24",
+  "version_code": 123,
+  "version_name": "1.1.13",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.13/burgtv-mobile-1.1.13-release.apk",
+  "release_date": "2026-09-03",
   "min_version_code": 100,
-  "changelog": "v1.1.12 — Sport: schede partite e ricerca canali allineate alla versione TV (4 livelli di ricerca), tab Sport corretta in inglese, traduzioni complete in 21 lingue (paywall, ordinamenti, dialoghi), correzioni varie"
+  "changelog": "v1.1.13 — Sincronizzazione playlist blindata: un errore di rete non può più azzerare canali/film/serie (contenuto sempre preservato, su tutti i provider). Home: 'Aggiunti di recente' Serie in ordine corretto, una riga per ogni playlist attiva, numeri di classifica su 'In Tendenza Ora'. Ordinamento 'Più recenti' coerente."
 }
