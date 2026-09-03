@@ -1,8 +1,8 @@
 {
-  "version_code": 123,
-  "version_name": "1.1.13",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.13/burgtv-mobile-1.1.13-release.apk",
+  "version_code": 124,
+  "version_name": "1.1.14",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.14/burgtv-mobile-1.1.14-release.apk",
   "release_date": "2026-09-03",
   "min_version_code": 100,
-  "changelog": "v1.1.13 — Sincronizzazione playlist blindata: un errore di rete non può più azzerare canali/film/serie (contenuto sempre preservato, su tutti i provider). Home: 'Aggiunti di recente' Serie in ordine corretto, una riga per ogni playlist attiva, numeri di classifica su 'In Tendenza Ora'. Ordinamento 'Più recenti' coerente."
+  "changelog": "v1.1.14 — Player più affidabile su reti/CDN instabili: se un film o una serie si blocca in caricamento, l'app riprova da sola e riprende dal punto esatto (senza ripartire da capo). Timeline più precisa: trascinando la barra l'indicatore va subito al punto, senza rimbalzo."
 }
