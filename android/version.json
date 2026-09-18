@@ -1,8 +1,8 @@
 {
-  "version_code": 125,
-  "version_name": "1.1.15",
-  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.15/burgtv-mobile-1.1.15-release.apk",
-  "release_date": "2026-09-10",
+  "version_code": 126,
+  "version_name": "1.1.16",
+  "download_url": "https://github.com/burgtv/burgtv-mobile-releases/releases/download/android-v1.1.16/burgtv-mobile-1.1.16-release.apk",
+  "release_date": "2026-09-18",
   "min_version_code": 100,
-  "changelog": "v1.1.15 — Ottimizzazioni prestazioni: il caricamento dei contenuti simili e delle immagini (poster/sfondi) passa dalla cache del server, risultando più veloce e stabile anche con molti utenti. Nessun cambiamento visibile nell'uso quotidiano."
+  "changelog": "v1.1.16 — Contenuti simili più completi e pertinenti nei dettagli di film e serie. Aggiunta la classificazione per età (badge) su film e serie, dal database TMDB."
 }
